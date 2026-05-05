@@ -46,7 +46,7 @@ network layer - pdu is packets / protocol is IP
 data link - pdu is frame / protocol is ethernet
 physical layer - pdu is signal
 
-TCP/IP - Transfer Protocol
+TCP/IP - Transmission Control Protocol/Internet Protocol
 application layer - a combination of layers 5,6,7 in OSI model
 transport layer
 internetwork layer
